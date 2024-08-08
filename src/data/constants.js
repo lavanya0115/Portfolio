@@ -7,7 +7,7 @@ export const Bio = {
   github: "https://github.com/lavanya0115",
   resume:
     "https://drive.google.com/file/d/191C82PRkxGLMTK3JKOC-3aSVrntqY9fs/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/lavanya-m-750664303/",
+  linkedin: "https://www.linkedin.com/in/lavanyam55/",
 };
 
 export const skills = [
