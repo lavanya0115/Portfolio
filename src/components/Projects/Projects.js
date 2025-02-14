@@ -2,12 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import hms from "../../Assets/Projects/HMS.png";
+import medicall from "../../Assets/Projects/Medicall.png";
+import hr from "../../Assets/Projects/hr onboard.png";
+import reallist from "../../Assets/Projects/reallist.png";
+
 
 function Projects() {
   return (
@@ -23,7 +22,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={hms}
               isBlog={false}
               title="Divine"
               description="Divine is a comprehensive Restaurant Management System with full CRM capabilities.It allows users to manage and view detailed menu information.
@@ -35,7 +34,7 @@ The system handles orders, reservations, and customer feedback efficiently.It of
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={medicall}
               isBlog={false}
               title="Medicall 1 to 1 Meet"
               description="Medicall One-to-One Meet is a networking event for healthcare professionals and industry leaders. It facilitates direct interactions between healthcare providers, suppliers, and innovators. The event offers opportunities for business collaborations and partnerships.
@@ -47,7 +46,7 @@ Participants can showcase their products, services, and solutions to potential c
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={hr}
               isBlog={false}
               title="HR Onboarding"
               description="HR Onboarding is a comprehensive system for managing the employee onboarding process. It facilitates candidate registration, profile submissions, and interview assessments.The system allows HR to track application statuses and manage offers.
@@ -59,7 +58,7 @@ It includes features for document uploads, communication, and offer letter manag
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={reallist}
               isBlog={false}
               title="Reallist"
               description="Transform your paper forms into mobile applications
