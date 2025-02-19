@@ -7,7 +7,6 @@ import medicall from "../../Assets/Projects/Medicall.png";
 import hr from "../../Assets/Projects/hr onboard.png";
 import reallist from "../../Assets/Projects/reallist.png";
 
-
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -27,8 +26,7 @@ function Projects() {
               title="Divine"
               description="Divine is a comprehensive Restaurant Management System with full CRM capabilities.It allows users to manage and view detailed menu information.
 The system handles orders, reservations, and customer feedback efficiently.It offers real-time insights into sales, inventory, and staff performance.Divine enhances customer engagement through loyalty programs and personalized offers"
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/lavanya0115/HMS"
             />
           </Col>
 
