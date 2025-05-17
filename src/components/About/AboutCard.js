@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Lavanya </span>
             from <span className="purple"> Trichy, India.</span>
             <br />
-            I am currently employed as a software developer at Agile Health.
+            I am currently employed as a software developer at Vahmine Technologies.
             <br />
             I have completed  MSc Computer Science in 2022 from Bharathidasan University, Trichy.
             <br />

@@ -37,8 +37,8 @@ The system handles orders, reservations, and customer feedback efficiently.It of
               title="Medicall 1 to 1 Meet"
               description="Medicall One-to-One Meet is a networking event for healthcare professionals and industry leaders. It facilitates direct interactions between healthcare providers, suppliers, and innovators. The event offers opportunities for business collaborations and partnerships.
 Participants can showcase their products, services, and solutions to potential clients. Medicall One-to-One Meet fosters industry growth through meaningful connections and knowledge sharing"
-              ghLink="https://github.com/medicall-labs/medicall-erp"
-              // demoLink="https://chatify-49.web.app/"
+              ghLink="https://crm.medicall.in/login"
+            // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -49,8 +49,8 @@ Participants can showcase their products, services, and solutions to potential c
               title="HR Onboarding"
               description="HR Onboarding is a comprehensive system for managing the employee onboarding process. It facilitates candidate registration, profile submissions, and interview assessments.The system allows HR to track application statuses and manage offers.
 It includes features for document uploads, communication, and offer letter management.HR Onboarding streamlines the hiring process and improves candidate experience."
-              ghLink="https://github.com/medicall-labs/hr-onboarding-process"
-              // demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://careers.kauverykonnect.com/login"
+            // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -61,8 +61,8 @@ It includes features for document uploads, communication, and offer letter manag
               title="Reallist"
               description="Transform your paper forms into mobile applications
 Create mobile forms effortlessly with a drag-and-drop user interface. Simply drag widgets to capture photos, geolocation, scan barcodes, QR codes, and more. Enhance forms with validations and conditional logic to manage the visibility of form widgets."
-              ghLink="https://github.com/medicall-labs/reallist-webapp"
-              // demoLink="https://editor.soumya-jit.tech/"
+              ghLink="https://app.reallist.in/login"
+            // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
